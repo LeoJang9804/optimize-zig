@@ -29,4 +29,6 @@ save each genType and fitness information
 - [] wrap above three function in one function 
 - [] perform genetic algorithm
 
-only concern: optimization time 
+concerns: optimization time 
+This concerns can be mitigated by multiprocessing. refer below url to learn how to use multiprocessing in PyGAD
+https://hackernoon.com/how-genetic-algorithms-can-compete-with-gradient-descent-and-backprop-9m9t33bq
